@@ -21,11 +21,11 @@
 ## 🏆 Awards & Achievements
 
 ### 2024
-- 🏆 [AICOSS 해커톤 경진대회](https://dacon.io/competitions/open/236201/leaderboard) - 우승
+- 🥇 [AICOSS 해커톤 경진대회](https://dacon.io/competitions/open/236201/leaderboard) - 우승
 
 ### 2023
 - 🎖️ [Samsung AI Challenge: Camera-Invariant Domain Adaptation](https://dacon.io/competitions/official/236132/leaderboard) - Top 10%
-- 🏅 [Samsung AI Challenge: Image Quality Assessment](https://dacon.io/competitions/official/236134/leaderboard) - 7th
-- 🥇 [데이콘 항공편 지연 예측 AI 경진대회](https://dacon.io/competitions/official/236094/leaderboard) - 수상
-- 🏆 [데이콘 칼로리 소모량 예측 AI 경진대회](https://dacon.io/competitions/open/236097/leaderboard) - 우승
-- 🥇 [제 1회 코스포 x 데이콘 자동차 충돌 분석 AI 경진대회](https://dacon.io/competitions/official/236064/leaderboard) - 수상
+- 🎖️ [Samsung AI Challenge: Image Quality Assessment](https://dacon.io/competitions/official/236134/leaderboard) - 7th
+- 🥉 [데이콘 항공편 지연 예측 AI 경진대회](https://dacon.io/competitions/official/236094/leaderboard) - 수상
+- 🥇 [데이콘 칼로리 소모량 예측 AI 경진대회](https://dacon.io/competitions/open/236097/leaderboard) - 우승
+- 🏅 [제 1회 코스포 x 데이콘 자동차 충돌 분석 AI 경진대회](https://dacon.io/competitions/official/236064/leaderboard) - 수상
