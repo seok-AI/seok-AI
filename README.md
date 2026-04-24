@@ -21,7 +21,7 @@ Previously @ **RCV Lab, UoS** (Prof. Ji-Young Jung) · **MLAI Lab, UoS** (Prof. 
 | Year | Competition | Rank | Repo |
 |------|-------------|------|------|
 | 2023 | KOSPO × DACON — Car Crash Analysis | **4th / 449** | [KOSPO-DACON-AI-Competition](https://github.com/seok-AI/KOSPO-DACON-AI-Competition) |
-| 2023 | DACON — Basic Calorie Consumption Prediction | **1st** | [Dacon-Table-Award](https://github.com/seok-AI/Dacon-Table-Award) |
+| 2023 | DACON — Basic Calorie Consumption Prediction | **1st / 358** | [Dacon-Table-Award](https://github.com/seok-AI/Dacon-Table-Award) |
 | 2023 | DACON — Flight Delay Prediction | **3rd / 499** | — |
 | 2023 | Samsung AI Challenge — Camera-Invariant Domain Adaptation | Top 10% | [Domain-Adaptation](https://github.com/seok-AI/Domain-Adaptation) |
 | 2023 | Samsung AI Challenge — Image Quality Assessment | 7th / 57 | [Image-Quality-Assessment](https://github.com/seok-AI/Image-Quality-Assessment) |
