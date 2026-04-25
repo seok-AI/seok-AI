@@ -4,7 +4,7 @@ AI undergrad @ **University of Seoul** (GPA 4.06 / 4.5, Major 4.0 / 4.5)
 Research intern @ **Korea University Computer Vision Lab** (Prof. Sang-pil Kim)
 Previously @ **RCV Lab, UoS** (Prof. Ji-Young Jung) · **MLAI Lab, UoS** (Prof. Kyung-Woo Song)
 
-
+Completed military service **May 2024 – Feb 2026** (ROK Air Force).
 
 📄 [Notion Portfolio](https://pointed-vessel-c14.notion.site/Won-Seok-Choi-839a53b90909830c87a801cd7109c480) ·
 💼 [LinkedIn](https://www.linkedin.com/in/wonseokchoi-ai/) ·
