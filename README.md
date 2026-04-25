@@ -33,10 +33,7 @@ Completed military service **May 2024 – Feb 2026** (ROK Air Force).
 ### 🧰 Stack
 
 `Python` · `PyTorch` · `TensorFlow` · `NumPy` / `Pandas`
-`Linux` · `tmux` · `slurm` · `SSH` · `conda` · `wandb` · `Git`
-Currently learning: `vLLM` · `CUDA` · inference serving internals
+`Linux` · `tmux` · `slurm` · `SSH` · `conda` · `wandb` · `Git` · `vLLM` · `CUDA`
 
-### 📫 Contact
 
-- ✉️ wonseok.choi@uos.ac.kr
-- 🧑‍💻 [DACON profile](https://dacon.io/myprofile/463100/home)
+
