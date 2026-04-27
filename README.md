@@ -25,7 +25,7 @@ Completed military service **May 2024 – Feb 2026** (ROK Air Force).
 |------|-------------|------|------|
 | 2023 | KOSPO × DACON — Car Crash Analysis | **4th / 449** | [KOSPO-DACON-AI-Competition](https://github.com/seok-AI/KOSPO-DACON-AI-Competition) |
 | 2023 | DACON — Basic Calorie Consumption Prediction | **1st / 358** | [Dacon-Table-Award](https://github.com/seok-AI/Dacon-Table-Award) |
-| 2023 | DACON — Flight Delay Prediction | **3rd / 499** | — |
+| 2023 | DACON — Flight Delay Prediction | **3rd / 499** | [Dacon-Table-Award](https://github.com/seok-AI/Dacon-Table-Award) |
 | 2023 | Samsung AI Challenge — Camera-Invariant Domain Adaptation | Top 10% | [Domain-Adaptation](https://github.com/seok-AI/Domain-Adaptation) |
 | 2023 | Samsung AI Challenge — Image Quality Assessment | 7th / 57 | [Image-Quality-Assessment](https://github.com/seok-AI/Image-Quality-Assessment) |
 | 2024 | AICOSS Hackathon — Satellite Multi-label Classification | **1st / 44** · *UoS President's Award* | [2023-AICOSS](https://github.com/seok-AI/2023-AICOSS) |
