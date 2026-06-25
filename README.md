@@ -11,8 +11,7 @@ Completed military service **May 2024 – Feb 2026** (ROK Air Force).
 📄 [Notion Portfolio](https://choiwonseok.notion.site/portfolio) ·
 💼 [LinkedIn](https://www.linkedin.com/in/wonseokchoi-ai/) ·
 📊 [Dacon](https://dacon.io/myprofile/463100/home) ·
-✉️ [wonseok.choi@uos.ac.kr](mailto:wonseok.choi@uos.ac.kr)
-
+✉️ [wonseok.choi@kist.re.kr](mailto:wonseok.choi@kist.re.kr)
 ---
 
 ### 🔬 Research
