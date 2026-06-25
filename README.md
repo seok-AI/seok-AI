@@ -1,8 +1,8 @@
 ## Hi, I'm Wonseok Choi 👋
 
-AI undergrad @ **University of Seoul** (GPA 4.06 / 4.5, Major 4.0 / 4.5)
-Research intern @ **Korea University Computer Vision Lab** (Prof. Sang-pil Kim)
-Previously @ **RCV Lab, UoS** (Prof. Ji-Young Jung) · **MLAI Lab, UoS** (Prof. Kyung-Woo Song)
+AI undergrad @ **University of Seoul** (GPA 4.1 / 4.5, Major 4.08 / 4.5)
+Undergraduate Research intern @ **PIER Lab, KIST** (Dr. Keun-woo Jang)
+Previously @ **Computer Vision Lab, KU** (Prof. Sang-pil Kim) @ **RCV Lab, UoS** (Prof. Ji-Young Jung) · **MLAI Lab, UoS** (Prof. Kyung-Woo Song)
 
 Completed military service **May 2024 – Feb 2026** (ROK Air Force).
 
